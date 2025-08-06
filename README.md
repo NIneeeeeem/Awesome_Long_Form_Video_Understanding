@@ -46,6 +46,7 @@ This repository curates a collection of research works specifically focused on l
 * OmniVid: A Generative Framework for Universal Video Understanding, CVPR 2024.
 
 ## Long-Term Video Large Language Models
+* [Agent] [**Ego-R1**: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning](https://arxiv.org/pdf/2506.13654) [![Star](https://img.shields.io/github/stars/egolife-ai/Ego-R1.svg?style=social&label=Star)](https://github.com/egolife-ai/Ego-R1), arXiv 2025
 * [**VideoINSTA**: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs](https://www.arxiv.org/abs/2409.20365), EMNLP 2024[![EMNLP](https://img.shields.io/badge/EMNLP-2024-blue.svg?style=plastic)](https://www.arxiv.org/abs/2409.20365)
 * Language Repository for Long Video Understanding, 2024.
 * VTimeLLM: Empower LLM to Grasp Video Moments, CVPR 2024.
@@ -64,7 +65,6 @@ This repository curates a collection of research works specifically focused on l
 * [Agent] Self-chained image-language model for video localization and question answering, 2024.
 * [Agent] VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos, 2024.
 * Encoding and Controlling Global Semantics for Long-form Video Question Answering, 2024.
-* 
 
 
 ## Action Localization
